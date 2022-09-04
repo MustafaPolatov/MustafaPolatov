@@ -18,7 +18,7 @@ Latest YouTube videos
 [![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=f06292)](https://t.me/MySitesAndPortfolio)
 
 
-[![Erkin303m's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkin303m&show_icons=true&theme=radical)](https://github.com/Erkin303m/erkin303m)
+[![MustafaPolatov's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkin303m&show_icons=true&theme=radical)](https://github.com/MustafaPolatov)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
